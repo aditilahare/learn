@@ -1,0 +1,14 @@
+{
+  "name": "learning_npm_package",
+  "version": "1.0.0",
+  "description": "A demo package to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Demo"
+  ],
+  "author": "NPM DEMO Aditi <aditilahare525@gmail.com>",
+  "license": "ISC"
+}

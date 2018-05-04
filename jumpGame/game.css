@@ -1,0 +1,15 @@
+body {
+  height: 850px;
+  background-image: url(images1.jpg);
+}
+
+#apple {
+  top: 370px;
+  position: absolute;
+}
+
+#knife {
+  margin-top: 490px;
+  position: absolute;
+  right: 0px;
+}
