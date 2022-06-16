@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "electron": "^2.0.0",
+    "electron": "^15.5.5",
     "nightmare": "^3.0.1"
   },
   "devDependencies": {},
